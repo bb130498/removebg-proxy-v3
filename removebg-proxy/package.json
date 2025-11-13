@@ -1,0 +1,9 @@
+{
+  "name": "removebg-proxy",
+  "version": "1.0.0",
+  "main": "api/remove-bg.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
